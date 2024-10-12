@@ -49,4 +49,8 @@ This GitHub repository contains the Figma file for the Anisto UI design. Feel fr
 
 Join us in creating the future of anime streaming, where beautiful design meets the passion of the anime community. 
 
+## Sample Screenshots
+![Grey minimalist business project presentation ](https://github.com/user-attachments/assets/220c7da2-52c7-48c0-9757-732d85973cf2)
+![Grey minimalist business project presentation  (1)](https://github.com/user-attachments/assets/bfce96c7-c0de-4da4-a9f5-b96274f8c0ca)
+
 ---
